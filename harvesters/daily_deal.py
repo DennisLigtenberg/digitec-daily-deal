@@ -1,4 +1,4 @@
-import page_harvester
+from digitec import page_harvester
 
 
 def main():
