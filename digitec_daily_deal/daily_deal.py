@@ -1,5 +1,9 @@
+import page_harvester
+
+
 def main():
-    pass
+    page_harvester.harvest_page()
+
 
 if __name__ == "__main__":
     main()
